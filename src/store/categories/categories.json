@@ -1,0 +1,445 @@
+[
+  {
+    "id": 1,
+    "title": "HTML/CSS",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the difference between the <section> and <div> tags in HTML?",
+        "prize": 200
+      },
+      {
+        "id": 2,
+        "question": "Explain the concept of the CSS box model.",
+        "prize": 200
+      },
+      {
+        "id": 3,
+        "question": "What is the difference between the class and id attributes in HTML?",
+        "prize": 200
+      },
+
+      {
+        "id": 5,
+        "question": "How does CSS specificity work? Provide an example calculation.",
+        "prize": 400
+      },
+      {
+        "id": 6,
+        "question": "How do you achieve a responsive design with CSS? Mention common techniques.",
+        "prize": 400
+      },
+
+      {
+        "id": 7,
+        "question": "What are pseudo-classes and pseudo-elements? Give examples of each.",
+        "prize": 600
+      },
+
+      {
+        "id": 10,
+        "question": "What is the difference between 'em' and 'rem' units in CSS?",
+        "prize": 800
+      },
+      {
+        "id": 11,
+        "question": "Compare 'visibility: hidden' vs. 'display: none'.",
+        "prize": 800
+      },
+
+      {
+        "id": 13,
+        "question": "How do you optimize CSS for faster page loading?",
+        "prize": 1000
+      },
+      {
+        "id": 14,
+        "question": "Why are semantic HTML elements important for accessibility and SEO?",
+        "prize": 1000
+      },
+      {
+        "id": 15,
+        "question": "What is the main difference between a CSS preprocessor (e.g., Sass) and a CSS framework (e.g., Tailwind)?",
+        "prize": 1000
+      },
+
+      {
+        "id": 16,
+        "question": "How do CSS Custom Properties (variables) differ from preprocessor variables, and when would you prefer each?",
+        "prize": 1200
+      },
+      {
+        "id": 18,
+        "question": "How does the browser parse and render HTML/CSS? Describe the rendering pipeline steps.",
+        "prize": 1200
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "JavaScript/TypeScript",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the difference between var, let, and const?",
+        "prize": 200
+      },
+      {
+        "id": 3,
+        "question": "What is NaN in JavaScript? How can you reliably check if a value is NaN?",
+        "prize": 200
+      },
+
+      {
+        "id": 4,
+        "question": "Explain the difference between == and === in JavaScript.",
+        "prize": 400
+      },
+      {
+        "id": 5,
+        "question": "What is hoisting in JavaScript? Provide an example.",
+        "prize": 400
+      },
+      {
+        "id": 6,
+        "question": "How do arrow functions differ from regular functions?",
+        "prize": 400
+      },
+
+      {
+        "id": 7,
+        "question": "What are the main benefits of TypeScript over JavaScript?",
+        "prize": 600
+      },
+      {
+        "id": 8,
+        "question": "Explain the concept of closures and how they work in JavaScript.",
+        "prize": 600
+      },
+      {
+        "id": 9,
+        "question": "What is the difference between interface and type in TypeScript?",
+        "prize": 600
+      },
+      {
+        "id": 11,
+        "question": "Explain how generics in TypeScript help in creating reusable components.",
+        "prize": 800
+      },
+      {
+        "id": 12,
+        "question": "What is event delegation and why is it useful?",
+        "prize": 800
+      },
+
+      {
+        "id": 13,
+        "question": "What are decorators in TypeScript? Provide an example of a class decorator.",
+        "prize": 1000
+      },
+      {
+        "id": 14,
+        "question": "How does the async/await syntax improve code readability over Promises?",
+        "prize": 1000
+      },
+
+      {
+        "id": 16,
+        "question": "What are JSX and TSX files, and how do they relate to React applications in TypeScript?",
+        "prize": 1200
+      },
+      {
+        "id": 17,
+        "question": "Explain advanced TypeScript features like mapped types or conditional types with examples.",
+        "prize": 1200
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "DOM/BOM",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the DOM (Document Object Model) and why is it important?",
+        "prize": 200
+      },
+      {
+        "id": 2,
+        "question": "How can you select an element by its ID in vanilla JavaScript?",
+        "prize": 200
+      },
+      {
+        "id": 3,
+        "question": "What is the difference between document.querySelector() and document.getElementById()?",
+        "prize": 200
+      },
+
+      {
+        "id": 4,
+        "question": "What is the BOM (Browser Object Model)? Name a few objects it provides.",
+        "prize": 400
+      },
+      {
+        "id": 6,
+        "question": "How do you add or remove a CSS class from a DOM element?",
+        "prize": 400
+      },
+
+      {
+        "id": 7,
+        "question": "What is event bubbling and how do you prevent it?",
+        "prize": 600
+      },
+      {
+        "id": 8,
+        "question": "How do you efficiently create and append multiple DOM elements at once?",
+        "prize": 600
+      },
+
+      {
+        "id": 11,
+        "question": "Describe the concept of repaint and reflow in the browser.",
+        "prize": 800
+      },
+      {
+        "id": 12,
+        "question": "What is the purpose of the History API in the BOM?",
+        "prize": 800
+      },
+
+      {
+        "id": 13,
+        "question": "How can you detect when the user has switched to another browser tab (visibility change)?",
+        "prize": 1000
+      },
+      {
+        "id": 14,
+        "question": "Explain how you might optimize DOM interactions to improve performance.",
+        "prize": 1000
+      },
+      {
+        "id": 15,
+        "question": "What are shadow DOM and custom elements, and why are they useful?",
+        "prize": 1000
+      },
+
+      {
+        "id": 16,
+        "question": "How would you implement a virtual scroll mechanism to handle large DOM lists?",
+        "prize": 1200
+      },
+      {
+        "id": 18,
+        "question": "Explain the 'Intersection Observer' API and provide a scenario where it is beneficial.",
+        "prize": 1200
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Git",
+    "questions": [
+      {
+        "id": 1,
+        "question": "How do you initialize a Git repository in an existing project?",
+        "prize": 200
+      },
+      {
+        "id": 2,
+        "question": "What is the difference between git add and git commit?",
+        "prize": 200
+      },
+      {
+        "id": 4,
+        "question": "How do you clone a remote repository to your local machine?",
+        "prize": 400
+      },
+      {
+        "id": 5,
+        "question": "What is a .gitignore file, and why is it important?",
+        "prize": 400
+      },
+
+      {
+        "id": 7,
+        "question": "What are Git branches, and why are they useful?",
+        "prize": 600
+      },
+      {
+        "id": 9,
+        "question": "Explain the purpose of rebasing vs. merging.",
+        "prize": 600
+      },
+
+      {
+        "id": 10,
+        "question": "How do you undo the last commit but keep the changes locally?",
+        "prize": 800
+      },
+      {
+        "id": 11,
+        "question": "What is Git stash, and when would you use it?",
+        "prize": 800
+      },
+      {
+        "id": 12,
+        "question": "Explain how Git tags work and why you might use them.",
+        "prize": 800
+      },
+
+      {
+        "id": 13,
+        "question": "How do you perform an interactive rebase, and what is it used for?",
+        "prize": 1000
+      },
+      {
+        "id": 14,
+        "question": "Describe a scenario where you would force-push to a branch. Why can it be risky?",
+        "prize": 1000
+      },
+      {
+        "id": 15,
+        "question": "How would you handle a situation where you need to remove sensitive data from Git history?",
+        "prize": 1000
+      },
+      {
+        "id": 17,
+        "question": "Explain Git hooks. Provide an example of a pre-commit hook.",
+        "prize": 1200
+      },
+      {
+        "id": 18,
+        "question": "How do you optimize a large Git repository to keep performance manageable?",
+        "prize": 1200
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Node.js",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is Node.js, and how does it differ from browser-based JavaScript?",
+        "prize": 200
+      },
+      {
+        "id": 2,
+        "question": "How do you install and manage packages in Node.js?",
+        "prize": 200
+      },
+      {
+        "id": 4,
+        "question": "What is the Event Loop in Node.js?",
+        "prize": 400
+      },
+      {
+        "id": 5,
+        "question": "How do you handle environment variables and secrets in Node.js applications?",
+        "prize": 600
+      },
+      {
+        "id": 7,
+        "question": "What is the difference between require and import in Node.js?",
+        "prize": 600
+      },
+      {
+        "id": 12,
+        "question": "Explain what middleware is in the context of Express.js.",
+        "prize": 800
+      },
+      {
+        "id": 13,
+        "question": "How do you debug a Node.js application in production?",
+        "prize": 1000
+      },
+      {
+        "id": 18,
+        "question": "Describe how you would handle server-side rendering with Node.js and a frontend framework.",
+        "prize": 1200
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Scrum",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is Scrum and why is it popular in software development?",
+        "prize": 200
+      },
+      {
+        "id": 2,
+        "question": "Name the three main roles in Scrum.",
+        "prize": 200
+      },
+      {
+        "id": 3,
+        "question": "What is a 'User Story' in Scrum?",
+        "prize": 200
+      },
+      {
+        "id": 4,
+        "question": "What is the purpose of the Product Backlog in Scrum?",
+        "prize": 400
+      },
+      {
+        "id": 5,
+        "question": "Explain what a Sprint is and how long it typically lasts.",
+        "prize": 400
+      },
+      {
+        "id": 6,
+        "question": "How do you define the 'Definition of Done' in a Scrum team?",
+        "prize": 400
+      },
+      {
+        "id": 7,
+        "question": "What is a Sprint Review and what outcomes are expected from it?",
+        "prize": 600
+      },
+      {
+        "id": 8,
+        "question": "Explain how a Scrum team estimates tasks or user stories.",
+        "prize": 600
+      },
+      {
+        "id": 9,
+        "question": "What are the main objectives of a Daily Scrum (Stand-up)?",
+        "prize": 600
+      },
+      {
+        "id": 10,
+        "question": "What is a Sprint Retrospective and why is it important?",
+        "prize": 800
+      },
+      {
+        "id": 11,
+        "question": "How do Scrum Teams handle changing requirements mid-Sprint?",
+        "prize": 800
+      },
+      {
+        "id": 12,
+        "question": "What is velocity in Scrum, and how is it calculated?",
+        "prize": 800
+      },
+      {
+        "id": 14,
+        "question": "How do you track and measure progress during a Sprint?",
+        "prize": 1000
+      },
+      {
+        "id": 15,
+        "question": "Describe how user stories are split or refined when they are too large (epics).",
+        "prize": 1000
+      },
+      {
+        "id": 17,
+        "question": "What is the concept of a 'Sprint Goal' and how do you ensure the team is aligned with it?",
+        "prize": 1200
+      }
+    ]
+  }
+]

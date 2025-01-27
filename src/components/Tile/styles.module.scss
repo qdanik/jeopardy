@@ -1,0 +1,26 @@
+.tile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--blue);
+
+  &-text {
+    text-transform: uppercase;
+  
+    &--title {
+      padding: 1rem;
+      font-size: 1.25rem;
+      font-weight: bold;
+      color: var(--white);
+      filter: drop-shadow(2px 2px 2px var(--black));
+    }
+  
+    &--question {
+      padding: 0.25rem;
+      font-size: 5rem;
+      font-weight: bold;
+      color: var(--orange);
+      filter: drop-shadow(2px 2px 2px var(--black));
+    }
+  }
+}
